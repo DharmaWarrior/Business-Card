@@ -1,0 +1,387 @@
+img {
+    position: absolute;
+    width: 347px;
+    height: 317px;
+    left: 516px;
+    top: 44px;
+
+    border-radius: 10px 10px 0px 0px;
+}
+
+.Top {
+    /* Rectangle 91 */
+
+
+    position: absolute;
+    height: 399px;
+    width: 347px;
+    left: 516px;
+    top: 361px;
+    border-radius: 0px;
+
+
+    background: #1A1B21;
+}
+
+.Name {
+    position: absolute;
+    width: 178.06px;
+    height: 25.81px;
+    left: 590px;
+    top: 362px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: end;
+
+
+    color: #FFFFFF;
+}
+
+body {
+    position: absolute;
+width: 550px;
+height: 868px;
+left: 65px;
+top: 53px;
+
+background: #23252C;
+}
+
+h2 {
+    /* Frontend Developer */
+
+
+    position: absolute;
+    height: 14.193548202514648px;
+    width: 178.06451416015625px;
+    left: 595px;
+    top: 410px;
+    border-radius: nullpx;
+
+
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: .6em;
+    text-align: end;
+    font-style: normal;
+
+    color: #F3BF99;
+
+}
+
+h3 {
+    position: absolute;
+    width: 228px;
+    height: 16px;
+    left:571px;
+    top: 425px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.24px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+
+    text-align: center;
+
+    color: #5093E2;
+}
+
+.Left {
+    /* Button */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    position: absolute;
+    width: 115px;
+    height: 34px;
+    left: 561px;
+    top: 468px;
+
+    /* white */
+
+    background: #FFFFFF;
+    /* gray/300 */
+
+    border: 1px solid #D1D5DB;
+    /* shadow/sm */
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.Right {
+    /* Button */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    position: absolute;
+    width: 115px;
+    height: 34px;
+    left: 693px;
+    top: 468px;
+
+    background: #5093E2;
+    /* shadow/sm */
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+.TextL {
+    height: 16px;
+    width: 36px;
+    left: 450.5px;
+    top: 9px;
+    border-radius: nullpx;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+
+    /* gray/700 */
+
+    color: #374151;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.TextR {
+    /* Text */
+
+
+    height: 16px;
+    width: 57px;
+    left: 440px;
+    top: 9px;
+    border-radius: nullpx;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Mail {
+        
+    height: 14px;
+    width: 16px;
+    left: 15.5px;
+    top: 9px;
+    border-radius: 0px;
+
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.LinkedIn {
+    /* Icon/Font Awesome Free/Brands/L/linkedin */
+
+
+    height: 16px;
+    width: 16px;
+    left: 10px;
+    top: 6px;
+    border-radius: 0px;
+
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.About {
+        /* About */
+
+
+    position: absolute;
+    width: 242.71px;
+    height: 21px;
+    left: 651.5px;
+    top: 515px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #F5F5F5;
+}
+.AboutInfo {
+        /* I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn. */
+
+
+    position: absolute;
+    width: 247px;
+    height: 61px;
+    left: 560px;
+    top: 551px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.54px;
+    line-height: 150%;
+    text-align: center;
+    /* or 15px */
+
+
+    color: #DCDCDC;
+
+}
+
+.Interests {
+        /* Interests */
+
+
+    position: absolute;
+    width: 242.71px;
+    height: 21px;
+    left: 645px;
+    top: 658px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #F5F5F5;
+
+}
+
+.InterestsInfo {
+    /* Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic. */
+
+
+    position: absolute;
+    width: 247px;
+    height: 61px;
+    left: 565px;
+    top: 694px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.54px;
+    line-height: 150%;
+    text-align: center;
+    /* or 15px */
+
+
+    color: #DCDCDC;
+
+}
+
+.Twitter {
+    /* Twitter Icon */
+
+
+    position: absolute;
+    height: 25.000001907348633px;
+    width: 25.000001907348633px;
+    left: 64px;
+    top: 20px;
+    border-radius: 0px;
+    
+}
+
+.Insta {
+    /* Instagram Icon */
+
+
+    position: absolute;
+    height: 25.000001907348633px;
+    width: 25.000001907348633px;
+    left: 164px;
+    top: 20px;
+    border-radius: 0px;
+    
+}
+
+.Git {
+    /* GitHub Icon */
+
+
+    position: absolute;
+    height: 25.000001907348633px;
+    width: 25.000001907348633px;
+    left: 260px;
+    top: 20px;
+    border-radius: 0px;   
+    
+}
+
+.footer{
+    /* Social Icons Background */
+
+
+    position: absolute;
+    width: 347px;
+    height: 64px;
+    left: 516px;
+    top: 760px;
+
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
