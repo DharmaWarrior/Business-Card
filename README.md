@@ -1,6 +1,11 @@
 # Business-Card
 
-I have created this AirBnb Clone using React and JavaScript .
+### <b>Preiew of my Project<b>
+[Prototyp.webm](https://user-images.githubusercontent.com/97218268/211038124-d872f9ee-b153-44b0-883c-8f4da378a725.webm)
+
+
+## About
+I have created this Business Card using React and JavaScript .
 
 The steps to run:
 1. `git clone https://github.com/DharmaWarrior/Business-Card` - git clone the repo and `cd` in the folder
